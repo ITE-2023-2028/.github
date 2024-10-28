@@ -4,6 +4,9 @@ Tutaj znajdziesz zbiór kodu i przydatnych rzeczy z każdego semestru.
 
 Honorowa wzmianka dla poprzedniego rocznika, który wpadł na ten genialny [pomysł](https://github.com/Ite-2022-pwr)
 
+## Testownik 
+ https://github.com/Antoni-Czaplicki/testownik_core
+
 <!--
 
 **Here are some ideas to get you started:**
