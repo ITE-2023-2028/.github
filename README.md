@@ -1,0 +1,2 @@
+# .github
+Opis organizacji
