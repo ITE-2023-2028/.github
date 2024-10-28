@@ -12,6 +12,18 @@ Honorowa wzmianka dla poprzedniego rocznika, który wpadł na ten genialny [pomy
 ## Semestr 2
 
 ## Semestr 3
+
+## Poprzednie lata i bardzo przydatne rzeczy:
+
+[Architektura Komputerów 2 - kompendium wiedzy](https://github.com/westscz/ArchitekturaKomputerow2)
+
+[Organizacja W4-eka](https://github.com/orgs/w4-pwr/repositories)
+
+[W4 - informatyka, rzeczy zrobione przez studentów](https://github.com/Szynal/PWR-W4-INF)
+
+[W4 - baza materiałów](https://github.com/pwrW4Materialy)
+
+
 <!--
 
 **Here are some ideas to get you started:**
