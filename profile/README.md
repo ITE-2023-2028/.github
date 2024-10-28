@@ -7,6 +7,11 @@ Honorowa wzmianka dla poprzedniego rocznika, który wpadł na ten genialny [pomy
 ## Testownik 
  https://github.com/Antoni-Czaplicki/testownik_core
 
+## Semestr 1
+
+## Semestr 2
+
+## Semestr 3
 <!--
 
 **Here are some ideas to get you started:**
