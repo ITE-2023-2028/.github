@@ -23,7 +23,7 @@ Honorowa wzmianka dla poprzedniego rocznika, który wpadł na ten genialny [pomy
 
 [W4 - baza materiałów](https://github.com/pwrW4Materialy)
 
-
+[Student dobrej woli z W4](https://github.com/pako535)
 <!--
 
 **Here are some ideas to get you started:**
