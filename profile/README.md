@@ -15,9 +15,9 @@ Honorowa wzmianka dla poprzedniego rocznika, który wpadł na ten genialny [pomy
  #### Labolatoria
      
  #### Projekty
-   [Filip Kwiek & Grzegorz Wszoła](https://github.com/kollibroman/ColonySimulator)
-   [Grzegorz Dynak & Jan Izdebski](https://github.com/Phario/ABM_Proj_OOP)
-   [Filip Romanowski & Piotr Sowizdrzał & Tymoteusz Goryluk](https://github.com/nukemain/SymulacjaBR)
+   - [Filip Kwiek & Grzegorz Wszoła](https://github.com/kollibroman/ColonySimulator)
+   - [Grzegorz Dynak & Jan Izdebski](https://github.com/Phario/ABM_Proj_OOP)
+   - [Filip Romanowski & Piotr Sowizdrzał & Tymoteusz Goryluk](https://github.com/nukemain/SymulacjaBR)
 ## Semestr 3
   
   ### Języki Programowania:
