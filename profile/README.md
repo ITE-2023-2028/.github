@@ -23,6 +23,10 @@ Honorowa wzmianka dla poprzedniego rocznika, który wpadł na ten genialny [pomy
   
   ### Języki Programowania:
   [Tomasz Kubik](https://github.com/ITE-2023-2028/semestr-3/tree/main/Tomasz_Kubik)
+
+  ### Niduc 2
+  - [Filip Kwiek & Kacper Mikosiński & Aleksander Dziągwa](https://github.com/Niduc-g07/Niduc-temat-10)
+  - 
 ## Poprzednie lata i bardzo przydatne rzeczy:
 
 [Architektura Komputerów 2 - kompendium wiedzy](https://github.com/westscz/ArchitekturaKomputerow2)
