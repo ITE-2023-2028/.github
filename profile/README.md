@@ -11,8 +11,17 @@ Honorowa wzmianka dla poprzedniego rocznika, który wpadł na ten genialny [pomy
 
 ## Semestr 2
 
+### Programowanie Obiektowe
+ #### Labolatoria
+     
+ #### Projekty
+   [Filip Kwiek & Grzegorz Wszoła](https://github.com/kollibroman/ColonySimulator)
+   [Grzegorz Dynak & Jan Izdebski](https://github.com/Phario/ABM_Proj_OOP)
+   [Filip Romanowski & Piotr Sowizdrzał & Tymoteusz Goryluk](https://github.com/nukemain/SymulacjaBR)
 ## Semestr 3
-
+  
+  ### Języki Programowania:
+  [Tomasz Kubik](https://github.com/ITE-2023-2028/semestr-3/tree/main/Tomasz_Kubik)
 ## Poprzednie lata i bardzo przydatne rzeczy:
 
 [Architektura Komputerów 2 - kompendium wiedzy](https://github.com/westscz/ArchitekturaKomputerow2)
